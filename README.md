@@ -18,8 +18,8 @@
 *(Xem chi tiết nhật ký phát hành tại: [GitHub Releases Tag v2.0](https://github.com/ngphong01/FIX_NOTIFICATION_XIAOMI/releases/tag/v2.0))*
 
 * **Tên file:** `VanPong_NotiTurbo_v2.0_Release.apk`
-* **Dung lượng:** ~2.1 MB
-* **Phiên bản:** `v2.0.0 (Release Build)`
+* **Dung lượng:** ~1.1 MB (Đã tối ưu hóa ProGuard/R8)
+* **Phiên bản:** `v2.0.0 (Triple Auto-Grant Release)`
 * **Yêu cầu hệ điều hành:** Android 10.0 (API 29) đến Android 15.0+ (API 35+)
 * **Hỗ trợ thiết bị:** Xiaomi, Redmi, POCO (HyperOS 1.0, HyperOS 2.0, MIUI 12/13/14) và tất cả các dòng Samsung, Realme, OPPO, Vivo, Pixel.
 * **Tác giả phát triển:** **Đào Văn Phong** (VanPong Software)
