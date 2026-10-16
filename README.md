@@ -7,16 +7,19 @@
   <img src="https://img.shields.io/badge/Root_Required-NO_(Shizuku_Supported)-blue?style=for-the-badge" alt="No Root Needed" />
   <img src="https://img.shields.io/badge/Architecture-54--Layer_System_Tuning-blueviolet?style=for-the-badge" alt="Architecture" />
   <img src="https://img.shields.io/badge/Release-v2.0_Official-success?style=for-the-badge" alt="Release" />
+  <a href="https://github.com/ngphong01/FIX_NOTIFICATION_XIAOMI/releases"><img src="https://img.shields.io/badge/GitHub_Releases-Download_APK-FFD700?style=for-the-badge&logo=github" alt="Download Releases" /></a>
 </p>
 
 ---
 
 ## 📥 TẢI VỀ BẢN CÀI ĐẶT CHÍNH THỨC (RELEASE APK)
 
-👉 **[Bấm vào đây để tải trực tiếp: VanPong_NotiTurbo_v2.0_Release.apk](./VanPong_NotiTurbo_v2.0_Release.apk)**
+👉 **[Bấm vào đây để tải trực tiếp từ GitHub Releases: VanPong_NotiTurbo_v2.0_Release.apk](https://github.com/ngphong01/FIX_NOTIFICATION_XIAOMI/releases/download/v2.0/VanPong_NotiTurbo_v2.0_Release.apk)**  
+*(Xem chi tiết nhật ký phát hành tại: [GitHub Releases Tag v2.0](https://github.com/ngphong01/FIX_NOTIFICATION_XIAOMI/releases/tag/v2.0))*
 
 * **Tên file:** `VanPong_NotiTurbo_v2.0_Release.apk`
 * **Dung lượng:** ~2.1 MB
+* **Phiên bản:** `v2.0.0 (Release Build)`
 * **Yêu cầu hệ điều hành:** Android 10.0 (API 29) đến Android 15.0+ (API 35+)
 * **Hỗ trợ thiết bị:** Xiaomi, Redmi, POCO (HyperOS 1.0, HyperOS 2.0, MIUI 12/13/14) và tất cả các dòng Samsung, Realme, OPPO, Vivo, Pixel.
 * **Tác giả phát triển:** **Đào Văn Phong** (VanPong Software)
@@ -93,7 +96,7 @@ Bạn chỉ cần cài đặt và kích hoạt ứng dụng cầu nối **Shizuk
 
 ### 📌 Bước 2: Cài đặt file APK
 
-1. Tải file **[`VanPong_NotiTurbo_v2.0_Release.apk`](./VanPong_NotiTurbo_v2.0_Release.apk)** về máy.
+1. Tải file **[`VanPong_NotiTurbo_v2.0_Release.apk`](https://github.com/ngphong01/FIX_NOTIFICATION_XIAOMI/releases/download/v2.0/VanPong_NotiTurbo_v2.0_Release.apk)** từ mục Releases về máy.
 2. Bấm vào file và chọn **Cài đặt**.
 3. **⚠️ Xử lý lỗi "Cài đặt bị hạn chế / Restricted Settings" trên Android 13/14/15:**
    * Nếu công tắc quyền của app bị mờ không gạt được:
