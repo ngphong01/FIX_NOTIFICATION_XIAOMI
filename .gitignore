@@ -1,0 +1,20 @@
+# Strict gitignore: Do NOT track source code, build scripts, or libraries
+src/
+res/
+build/
+libs/
+*.java
+*.xml
+*.py
+*.txt
+*.pro
+TrapTest.java
+build_apk.py
+obfuscation_dict.txt
+proguard-rules.pro
+screen_*.png
+
+# Only track README and release APK
+!README.md
+!VanPong_NotiTurbo_v2.0_Release.apk
+!.gitignore
